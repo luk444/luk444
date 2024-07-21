@@ -1,16 +1,32 @@
-## Hi there 👋
+## ¡Hola, soy Luca! 😄
+## ¡Un joven desarrollador FrontEnd de Argentina! ⚡
 
-<!--
-**luk444/luk444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering Student at [University of Hurlingham](http://www.unahur.edu.ar/)**  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Frontend Developer in training 👨‍💻
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/luk444/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-green?style=flat-square&logo=github)](https://github.com/luk444)
+
+
+### Discover more about me...
+
+import SoftwareDeveloper from 'luk444';
+
+class Bio extends SoftwareDeveloper {
+  name     = "Luca Ventura";
+  pronouns = ["he", "him"];
+  title    = "FrontEnd Developer";
+  location = "Buenos Aires, AR";
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ["Javascript", "Typescript", "Java"];
+  tools = ["React JS", "React Native", "Redux", "Node JS", "Express", "Unit Testing", "Git", "HTML", "CSS, "SCSS","];
+  databases  = ["MySQL", "MongoDB", "Firestore", "SQLite"];
+  architecture = ["Docker", "AWS", "Microservices", "Api-rest-development"],
+  challenges = "I am a FrontEnd Dev. My favorite tech stack is React JS and Node JS"
+  currentProject = "I am developing an ecommerce with React for my family business!",
+}
