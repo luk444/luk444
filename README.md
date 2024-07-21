@@ -13,20 +13,35 @@
 
 ### Discover more about me...
 
+<pre>
 import SoftwareDeveloper from 'luk444';
 
 class Bio extends SoftwareDeveloper {
-  name     = "Luca Ventura";
+  name = "Luca Ventura";
   pronouns = ["he", "him"];
-  title    = "FrontEnd Developer";
+  title = "FrontEnd Developer";
   location = "Buenos Aires, AR";
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ["Javascript", "Typescript", "Java"];
-  tools = ["React JS", "React Native", "Redux", "Node JS", "Express", "Unit Testing", "Git", "HTML", "CSS, "SCSS","];
-  databases  = ["MySQL", "MongoDB", "Firestore", "SQLite"];
-  architecture = ["Docker", "AWS", "Microservices", "Api-rest-development"],
-  challenges = "I am a FrontEnd Dev. My favorite tech stack is React JS and Node JS"
-  currentProject = "I am developing an ecommerce with React for my family business!",
+  languages = ["Javascript", "Typescript", "Java"];
+  tools = [
+    "React JS",
+    "React Native",
+    "Redux",
+    "Node JS",
+    "Express",
+    "Unit Testing",
+    "Git",
+    "HTML",
+    "CSS",
+    "SCSS"
+  ];
+  databases = ["MySQL", "MongoDB", "Firestore", "SQLite"];
+  architecture = ["Docker", "AWS", "Microservices", "Api-rest-development"];
+  challenges =
+    "I am a FrontEnd Dev. My favorite tech stack is React JS and Node JS";
+  currentProject =
+    "I am developing an ecommerce with React for my family business!";
 }
+</pre>
