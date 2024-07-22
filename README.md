@@ -13,7 +13,7 @@
 
 ### Discover more about me...
 
-<pre>
+```js
 import SoftwareDeveloper from 'luk444';
 
 class Bio extends SoftwareDeveloper {
@@ -44,4 +44,4 @@ class Skills extends SoftwareDeveloper {
   currentProject =
     "I am developing an ecommerce with React for my family business!";
 }
-</pre>
+```
