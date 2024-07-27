@@ -38,7 +38,7 @@ class Skills extends SoftwareDeveloper {
     "SCSS"
   ];
   databases = ["MySQL", "MongoDB", "Firestore", "SQLite"];
-  architecture = ["Docker", "AWS", "Microservices", "Api-rest-development"];
+  architecture = ["Docker", "Microservices", "Api-rest-development"];
   challenges =
     "I am a FrontEnd Dev. My favorite tech stack is React JS and Node JS";
   currentProject =
